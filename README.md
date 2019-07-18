@@ -4,6 +4,10 @@ Static site generator built with Webpack, Bootstrap and Handlebars.
 
 ![Webpack 4 + Bootstrap 4 + Handlebars](src/assets/images/screenshot.png?raw=true)
 
+### Demo
+
+[https://webpack-hbs-bootstrap.netlify.com/](https://webpack-hbs-bootstrap.netlify.com/)
+
 ### Installation
 
 ```
