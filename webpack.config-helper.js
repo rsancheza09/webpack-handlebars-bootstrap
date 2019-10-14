@@ -60,7 +60,7 @@ module.exports = (options) => {
         {
           test: /\.js$/,
           exclude: /node_modules/,
-          loader: 'babel-loader'
+          use: ['babel-loader', 'eslint-loader']
         },
         {
           test: /\.hbs$/,
